@@ -137,3 +137,14 @@ footer > section article {
 footer > section article a {
     margin: .25rem 0;
 }
+
+
+
+/* Testing DOM-manipulation*/
+.white-text{
+    color: white;
+}
+
+.d-none{
+    display: none;
+}
