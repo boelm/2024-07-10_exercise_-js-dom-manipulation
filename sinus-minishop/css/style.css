@@ -37,7 +37,7 @@ header nav a, footer a {
     margin: 0 .5rem;
 }
 
-header nav a.active {
+header>nav>a.active {
     font-weight: bold;
     color: rgba(0, 0, 0, 1);
 }
@@ -148,3 +148,11 @@ footer > section article a {
 .d-none{
     display: none;
 }
+
+.orange-background{
+    background-color: rgba(244, 182, 10);
+}
+
+/* .active{
+    background-color: rgba(244, 182, 10);
+} */
